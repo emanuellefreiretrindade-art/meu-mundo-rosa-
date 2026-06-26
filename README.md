@@ -1,1 +1,4 @@
-# meu-mundo-rosa-
+# meu-mundo-rosa
+Nós criamos uma página web personalizada e interativa sobre você estruturada em três partes principais. Primeiro, desenvolvemos o arquivo HTML, que funciona como o esqueleto do site e organiza todas as suas informações essenciais, como seu lado comunicativo e extrovertido, seu amor por maquiagem, saídas, mega funk, seu namorado e seu grande sonho de passar em Pedagogia na UFPR, além de incluir o player oficial do YouTube para tocar a música Incondicional do Luan Santana e deixar os espaços preparados para suas fotos e vídeos. Depois, usamos o CSS para dar vida e beleza ao projeto, aplicando um design totalmente trabalhado em tons de rosa com fundos em degradê, bordas destacadas e um visual moderno e delicado. Por fim, adicionamos o JavaScript para criar a interatividade do botão principal, fazendo com que todo o seu conteúdo apareça na tela com um efeito suave enquanto dispara uma chuva mágica de glitter colorido e brilhante que cai por toda a página.
+
+<img width="1089" height="560" alt="image" src="https://github.com/user-attachments/assets/8ade3019-e572-408d-9082-d017293d5f1d" />
